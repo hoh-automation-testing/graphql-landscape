@@ -15,11 +15,6 @@ global:
     twitter: '@graphql'
     google_site_verification: u_xqWIf8_EzRP4UF92px16rTSoIP49D_g9i7M-4rXds
     ms_validate: 3AF9FFA12CCC3C49C0ABA71CCA222665
-  membership: GraphQL Foundation Member
-  flags:
-    hide_license_for_categories:
-      - GraphQL Adopter
-      - GraphQL Foundation Member
 twitter:
   search: landscape.graphql.org
   url: 'https://landscape.graphql.org'
